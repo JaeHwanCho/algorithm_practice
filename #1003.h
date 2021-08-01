@@ -1,8 +1,9 @@
 #include <iostream>
+#include <math.h>
 
 using namespace std;
 
-int main() {
+int num_1003() {
 	int count = 0;
 	int a;
 	int fibonacci[41] = { 0, 1 };
