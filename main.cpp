@@ -5,12 +5,13 @@
 #include "#1002.h"
 #include "#1003.h"
 #include "#1004.h"
+#include "#1024.h"
 #include "#1051.h"
 #include "#2438.h"
 
 using namespace std;
 
 int main() {
-    num_1051();
+    num_1024();
 	return 0;
 }
