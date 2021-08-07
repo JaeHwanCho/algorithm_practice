@@ -7,11 +7,12 @@
 #include "#1004.h"
 #include "#1024.h"
 #include "#1051.h"
+#include "#1652.h"
 #include "#2438.h"
 
 using namespace std;
 
 int main() {
-    num_1024();
+    num_1652();
 	return 0;
 }
