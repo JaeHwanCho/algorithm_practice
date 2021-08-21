@@ -18,6 +18,7 @@
 #include "#2581.h"
 #include "#2741.h"
 #include "#3009.h"
+#include "#3053.h"
 #include "#4153.h"
 #include "#4948.h"
 #include "#9020.h"
@@ -28,6 +29,6 @@
 using namespace std;
 
 int main() {
-    num_10872();
+    num_3053();
 	return 0;
 }
