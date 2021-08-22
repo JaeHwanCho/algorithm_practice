@@ -13,6 +13,7 @@
 #include "#1712.h"
 #include "#1929.h"
 #include "#1978.h"
+#include "#2231.h"
 #include "#2292.h"
 #include "#2438.h"
 #include "#2581.h"
@@ -31,6 +32,6 @@
 using namespace std;
 
 int main() {
-    num_2798();
+    num_2231();
 	return 0;
 }
