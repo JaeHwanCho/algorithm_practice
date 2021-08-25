@@ -5,6 +5,7 @@
 #include "#1002.h"
 #include "#1003.h"
 #include "#1004.h"
+#include "#1018.h"
 #include "#1024.h"
 #include "#1051.h"
 #include "#1085.h"
@@ -34,6 +35,6 @@
 using namespace std;
 
 int main() {
-    num_7568();
+    num_1018();
 	return 0;
 }
