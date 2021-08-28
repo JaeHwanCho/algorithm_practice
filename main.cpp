@@ -18,6 +18,7 @@
 #include "#2231.h"
 #include "#2292.h"
 #include "#2438.h"
+#include "#2447.h"
 #include "#2581.h"
 #include "#2741.h"
 #include "#2750.h"
@@ -30,6 +31,7 @@
 #include "#7568.h"
 #include "#9020.h"
 #include "#9184.h"
+#include "#10870.h"
 #include "#10872.h"
 #include "#10998.h"
 #include "#11653.h"
@@ -38,6 +40,6 @@
 using namespace std;
 
 int main() {
-    num_2751();
+    num_2447();
 	return 0;
 }
