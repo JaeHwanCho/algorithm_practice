@@ -32,6 +32,7 @@
 #include "#7568.h"
 #include "#9020.h"
 #include "#9184.h"
+#include "#10718.h"
 #include "#10870.h"
 #include "#10872.h"
 #include "#10998.h"
@@ -42,6 +43,6 @@
 using namespace std;
 
 int main() {
-    num_1193();
+    num_10718();
 	return 0;
 }
