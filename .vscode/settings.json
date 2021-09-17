@@ -46,6 +46,11 @@
         "bit": "cpp",
         "compare": "cpp",
         "concepts": "cpp",
-        "ranges": "cpp"
+        "ranges": "cpp",
+        "cerrno": "cpp",
+        "climits": "cpp",
+        "list": "cpp",
+        "ios": "cpp",
+        "queue": "cpp"
     }
 }
