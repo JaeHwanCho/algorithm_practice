@@ -54,11 +54,12 @@
 #include "#13305.h"
 #include "#15649.h"
 #include "#15650.h"
+#include "#15651.h"
 #include "#18870.h"
 
 using namespace std;
 
 int main() {
-    num_15650();
+    num_15651();
 	return 0;
 }
