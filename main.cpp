@@ -25,6 +25,7 @@
 #include "#1932.h"
 #include "#1978.h"
 #include "#2108.h"
+#include "#2156.h"
 #include "#2231.h"
 #include "#2292.h"
 #include "#2438.h"
@@ -71,6 +72,6 @@
 using namespace std;
 
 int main() {
-    num_10844();
+    num_2156();
 	return 0;
 }
