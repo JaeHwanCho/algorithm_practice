@@ -49,6 +49,7 @@
 #include "#2869.h"
 #include "#2981.h"
 #include "#3009.h"
+#include "#3052.h"
 #include "#3053.h"
 #include "#4153.h"
 #include "#4948.h"
@@ -90,6 +91,6 @@
 using namespace std;
 
 int main() {
-    num_2675();
+    num_3052();
 	return 0;
 }
