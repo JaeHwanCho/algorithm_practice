@@ -12,6 +12,7 @@
 #include "#1085.h"
 #include "#1094.h"
 #include "#1149.h"
+#include "#1152.h"
 #include "#1181.h"
 #include "#1193.h"
 #include "#1316.h"
@@ -91,6 +92,6 @@
 using namespace std;
 
 int main() {
-    num_3052();
+    num_1152();
 	return 0;
 }
