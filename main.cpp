@@ -52,6 +52,7 @@
 #include "#2908.h"
 #include "#2981.h"
 #include "#3009.h"
+#include "#3036.h"
 #include "#3052.h"
 #include "#3053.h"
 #include "#4153.h"
@@ -97,6 +98,6 @@
 using namespace std;
 
 int main() {
-    num_12865();
+    num_3036();
 	return 0;
 }
