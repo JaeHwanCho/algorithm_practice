@@ -74,6 +74,7 @@
 #include "#10809.h"
 #include "#10814.h"
 #include "#10818.h"
+#include "#10828.h"
 #include "#10870.h"
 #include "#10872.h"
 #include "#10844.h"
@@ -105,6 +106,6 @@
 using namespace std;
 
 int main() {
-    num_2004();
+    num_10828();
 	return 0;
 }
