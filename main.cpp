@@ -65,6 +65,7 @@
 #include "#5622.h"
 #include "#7568.h"
 #include "#9020.h"
+#include "#9012.h"
 #include "#9184.h"
 #include "#9251.h"
 #include "#9375.h"
@@ -107,6 +108,6 @@
 using namespace std;
 
 int main() {
-    num_10773();
+    num_9012();
 	return 0;
 }
