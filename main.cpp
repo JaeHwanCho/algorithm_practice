@@ -106,11 +106,12 @@
 #include "#15651.h"
 #include "#15652.h"
 #include "#17298.h"
+#include "#18258.h"
 #include "#18870.h"
 
 using namespace std;
 
 int main() {
-    num_17298();
+    num_18258();
 	return 0;
 }
