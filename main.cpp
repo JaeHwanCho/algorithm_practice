@@ -81,6 +81,7 @@
 #include "#10814.h"
 #include "#10818.h"
 #include "#10828.h"
+#include "#10866.h"
 #include "#10870.h"
 #include "#10872.h"
 #include "#10844.h"
@@ -115,6 +116,6 @@
 using namespace std;
 
 int main() {
-    num_1966();
+    num_10866();
 	return 0;
 }
