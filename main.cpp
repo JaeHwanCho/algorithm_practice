@@ -36,6 +36,7 @@
 #include "#1934.h"
 #include "#1966.h"
 #include "#1978.h"
+#include "#1992.h"
 #include "#2004.h"
 #include "#2108.h"
 #include "#2156.h"
@@ -119,6 +120,6 @@
 using namespace std;
 
 int main() {
-    num_2630();
+    num_1992();
 	return 0;
 }
