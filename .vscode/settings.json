@@ -51,6 +51,7 @@
         "climits": "cpp",
         "list": "cpp",
         "ios": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "cstring": "cpp"
     }
 }
