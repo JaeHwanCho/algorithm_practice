@@ -88,6 +88,7 @@
 #include "#10814.h"
 #include "#10818.h"
 #include "#10828.h"
+#include "#10830.h"
 #include "#10866.h"
 #include "#10870.h"
 #include "#10872.h"
@@ -123,6 +124,6 @@
 using namespace std;
 
 int main() {
-    num_2740();
+    num_10830();
 	return 0;
 }
