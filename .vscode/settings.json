@@ -52,6 +52,7 @@
         "list": "cpp",
         "ios": "cpp",
         "queue": "cpp",
-        "cstring": "cpp"
+        "cstring": "cpp",
+        "set": "cpp"
     }
 }
