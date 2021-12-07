@@ -99,6 +99,7 @@
 #include "#10828.h"
 #include "#10830.h"
 #include "#10866.h"
+#include "#10869.h"
 #include "#10870.h"
 #include "#10872.h"
 #include "#10844.h"
@@ -135,6 +136,6 @@
 using namespace std;
 
 int main() {
-    num_2805();
+    num_10869();
 	return 0;
 }
