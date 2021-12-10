@@ -19,6 +19,7 @@
 #include "#1157.h"
 #include "#1181.h"
 #include "#1193.h"
+#include "#1300.h"
 #include "#1316.h"
 #include "#1427.h"
 #include "#1436.h"
@@ -138,6 +139,6 @@
 using namespace std;
 
 int main() {
-    num_2110();
+    num_1300();
 	return 0;
 }
