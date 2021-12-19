@@ -66,6 +66,7 @@
 #include "#2739.h"
 #include "#2740.h"
 #include "#2741.h"
+#include "#2742.h"
 #include "#2750.h"
 #include "#2751.h"
 #include "#2798.h"
@@ -147,6 +148,6 @@
 using namespace std;
 
 int main() {
-    num_15552();
+    num_2742();
 	return 0;
 }
