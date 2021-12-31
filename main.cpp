@@ -73,6 +73,7 @@
 #include "#2775.h"
 #include "#2798.h"
 #include "#2805.h"
+#include "#2839.h"
 #include "#2869.h"
 #include "#2908.h"
 #include "#2941.h"
@@ -156,6 +157,6 @@
 using namespace std;
 
 int main() {
-    num_10952();
+    num_2839();
 	return 0;
 }
