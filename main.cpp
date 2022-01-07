@@ -102,6 +102,7 @@
 #include "#9251.h"
 #include "#9375.h"
 #include "#9461.h"
+#include "#9498.h"
 #include "#9506.h"
 #include "#9663.h"
 #include "#10171.h"
@@ -162,6 +163,6 @@
 using namespace std;
 
 int main() {
-    num_1330();
+    num_9498();
 	return 0;
 }
