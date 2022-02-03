@@ -80,6 +80,7 @@
 #include "#2805.h"
 #include "#2839.h"
 #include "#2869.h"
+#include "#2884.h"
 #include "#2908.h"
 #include "#2941.h"
 #include "#2981.h"
@@ -167,6 +168,6 @@
 using namespace std;
 
 int main() {
-    num_14889();
+    num_2884();
 	return 0;
 }
