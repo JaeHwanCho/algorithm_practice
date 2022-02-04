@@ -10,6 +10,7 @@
 #include "#1018.h"
 #include "#1021.h"
 #include "#1024.h"
+#include "#1026.h"
 #include "#1037.h"
 #include "#1041.h"
 #include "#1051.h"
@@ -168,6 +169,6 @@
 using namespace std;
 
 int main() {
-    num_2884();
+    num_1026();
 	return 0;
 }
