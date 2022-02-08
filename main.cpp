@@ -38,6 +38,7 @@
 #include "#1676.h"
 #include "#1712.h"
 #include "#1780.h"
+#include "#1818.h"
 #include "#1874.h"
 #include "#1904.h"
 #include "#1912.h"
@@ -171,6 +172,6 @@
 using namespace std;
 
 int main() {
-    num_1032();
+    num_1818();
 	return 0;
 }
