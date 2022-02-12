@@ -17,6 +17,7 @@
 #include "#1051.h"
 #include "#1057.h"
 #include "#1075.h"
+#include "#1076.h"
 #include "#1085.h"
 #include "#1094.h"
 #include "#1100.h"
@@ -175,6 +176,6 @@
 using namespace std;
 
 int main() {
-    num_1075();
+    num_1076();
 	return 0;
 }
