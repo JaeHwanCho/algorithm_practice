@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int num_2443() {
 	int n;
 
 	cin >> n;
