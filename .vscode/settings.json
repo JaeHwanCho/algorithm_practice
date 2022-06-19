@@ -53,6 +53,19 @@
         "ios": "cpp",
         "queue": "cpp",
         "cstring": "cpp",
-        "set": "cpp"
+        "set": "cpp",
+        "ctime": "cpp",
+        "stack": "cpp",
+        "xfacet": "cpp",
+        "xiosbase": "cpp",
+        "xlocale": "cpp",
+        "xlocinfo": "cpp",
+        "xlocnum": "cpp",
+        "xmemory": "cpp",
+        "xstddef": "cpp",
+        "xstring": "cpp",
+        "xtr1common": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp"
     }
 }
