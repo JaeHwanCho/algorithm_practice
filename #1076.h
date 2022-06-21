@@ -28,7 +28,7 @@ int color_1076(string str) {
 		return 8;
 	else if (str == "white")
 		return 9;
-    return 0; // VS code에서 에러 메세지 없애기 위함.
+	return 0; // VS code에서 에러메세지 없애기 위해.
 }
 
 int num_1076()
