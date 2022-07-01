@@ -177,10 +177,11 @@
 #include "baekjoon/#17298.h"
 #include "baekjoon/#18258.h"
 #include "baekjoon/#18870.h"
+#include "baekjoon/#24416.h"
 
 using namespace std;
 
 int main() {
-    num_2444();
+    num_24416();
 	return 0;
 }
