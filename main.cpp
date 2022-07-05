@@ -85,6 +85,7 @@
 #include "baekjoon/#2742.h"
 #include "baekjoon/#2743.h"
 #include "baekjoon/#2748.h"
+#include "baekjoon/#2749.h"
 #include "baekjoon/#2750.h"
 #include "baekjoon/#2751.h"
 #include "baekjoon/#2753.h"
@@ -185,6 +186,6 @@
 using namespace std;
 
 int main() {
-    num_2748();
+    num_2749();
 	return 0;
 }
