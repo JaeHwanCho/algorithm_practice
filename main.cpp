@@ -55,6 +55,7 @@
 #include "baekjoon/#1966.h"
 #include "baekjoon/#1978.h"
 #include "baekjoon/#1992.h"
+#include "baekjoon/#2003.h"
 #include "baekjoon/#2004.h"
 #include "baekjoon/#2108.h"
 #include "baekjoon/#2110.h"
@@ -183,6 +184,6 @@
 using namespace std;
 
 int main() {
-    num_3425();
+    num_2003();
 	return 0;
 }
