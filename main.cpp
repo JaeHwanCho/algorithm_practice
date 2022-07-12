@@ -50,6 +50,7 @@
 #include "baekjoon/#1904.h"
 #include "baekjoon/#1912.h"
 #include "baekjoon/#1920.h"
+#include "baekjoon/#1922.h"
 #include "baekjoon/#1927.h"
 #include "baekjoon/#1929.h"
 #include "baekjoon/#1931.h"
@@ -195,7 +196,7 @@ using namespace std;
 
 int main() {
 
-    num_1717();
+    num_1922();
     
 	return 0;
 }
