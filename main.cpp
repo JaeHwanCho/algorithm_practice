@@ -156,6 +156,7 @@
 #include "baekjoon/#10871.h"
 #include "baekjoon/#10872.h"
 #include "baekjoon/#10844.h"
+#include "baekjoon/#10926.h"
 #include "baekjoon/#10950.h"
 #include "baekjoon/#10951.h"
 #include "baekjoon/#10952.h"
@@ -205,7 +206,7 @@ using namespace std;
 
 int main() {
 
-    num_13460();
+    num_10926();
     
 	return 0;
 }
