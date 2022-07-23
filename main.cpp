@@ -174,6 +174,7 @@
 #include "baekjoon/#11286.h"
 #include "baekjoon/#11399.h"
 #include "baekjoon/#11401.h"
+#include "baekjoon/#11438.h"
 #include "baekjoon/#11444.h"
 #include "baekjoon/#11650.h"
 #include "baekjoon/#11651.h"
@@ -207,7 +208,7 @@ using namespace std;
 
 int main() {
 
-    num_2042();
+    num_11438();
     
 	return 0;
 }
