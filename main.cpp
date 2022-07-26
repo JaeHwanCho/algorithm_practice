@@ -40,6 +40,7 @@
 #include "baekjoon/#1541.h"
 #include "baekjoon/#1546.h"
 #include "baekjoon/#1629.h"
+#include "baekjoon/#1644.h"
 #include "baekjoon/#1652.h"
 #include "baekjoon/#1654.h"
 #include "baekjoon/#1655.h"
@@ -209,7 +210,7 @@ using namespace std;
 
 int main() {
 
-    num_2230();
+    num_1644();
     
 	return 0;
 }
