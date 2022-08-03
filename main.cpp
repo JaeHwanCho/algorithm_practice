@@ -47,6 +47,7 @@
 #include "baekjoon/#1676.h"
 #include "baekjoon/#1712.h"
 #include "baekjoon/#1717.h"
+#include "baekjoon/#1731.h"
 #include "baekjoon/#1735.h"
 #include "baekjoon/#1753.h"
 #include "baekjoon/#1780.h"
@@ -216,7 +217,7 @@ using namespace std;
 
 int main() {
 
-    num_2506();
+    num_1731();
     
 	return 0;
 }
