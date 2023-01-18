@@ -8,6 +8,7 @@
 #include "baekjoon/#1010.h"
 #include "baekjoon/#1011.h"
 #include "baekjoon/#1018.h"
+#include "baekjoon/#1019.h"
 #include "baekjoon/#1021.h"
 #include "baekjoon/#1024.h"
 #include "baekjoon/#1026.h"
@@ -218,7 +219,7 @@ using namespace std;
 
 int main() {
 
-    num_11066();
+    num_1019();
     
 	return 0;
 }
