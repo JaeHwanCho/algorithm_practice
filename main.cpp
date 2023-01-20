@@ -37,6 +37,7 @@
 #include "baekjoon/#1357.h"
 #include "baekjoon/#1427.h"
 #include "baekjoon/#1436.h"
+#include "baekjoon/#1453.h"
 #include "baekjoon/#1463.h"
 #include "baekjoon/#1541.h"
 #include "baekjoon/#1546.h"
@@ -219,7 +220,7 @@ using namespace std;
 
 int main() {
 
-    num_1019();
+    num_1453();
     
 	return 0;
 }
