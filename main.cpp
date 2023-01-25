@@ -216,13 +216,14 @@
 #include "baekjoon/#18258.h"
 #include "baekjoon/#18870.h"
 #include "baekjoon/#24416.h"
+#include "baekjoon/baekjoonAgain/#2231.h"
 #include "baekjoon/baekjoonAgain/#2798.h"
 
 using namespace std;
 
 int main() {
 
-    again_2798();
+    again_2231();
     
 	return 0;
 }
