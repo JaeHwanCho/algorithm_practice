@@ -216,6 +216,7 @@
 #include "baekjoon/#18258.h"
 #include "baekjoon/#18870.h"
 #include "baekjoon/#24416.h"
+#include "baekjoon/baekjoonAgain/#1018.h"
 #include "baekjoon/baekjoonAgain/#2231.h"
 #include "baekjoon/baekjoonAgain/#2798.h"
 #include "baekjoon/baekjoonAgain/#7568.h"
@@ -224,7 +225,7 @@ using namespace std;
 
 int main() {
 
-    again_7568();
+    again_1018();
     
 	return 0;
 }
