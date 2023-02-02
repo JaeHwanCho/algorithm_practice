@@ -11,15 +11,17 @@ int again_gcd_2981(int a, int b) {
 	return again_gcd_2981(b, a % b);
 }
 
-int num_2981()
-{
+int again_2981() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(0);
+
 	int n;
 	vector<int> v;
 	vector<int> arr;
 	int temp;
 	int maxx;
 	int end;
-	
+
 	cin >> n;
 
 	for (int i = 0; i < n; i++) {
