@@ -4,11 +4,11 @@
 
 using namespace std;
 
-int again_gcd_2981(int a, int b) {
+int gcd_2981(int a, int b) {
 	if (a % b == 0)
 		return b;
 
-	return again_gcd_2981(b, a % b);
+	return gcd_2981(b, a % b);
 }
 
 int num_2981()
@@ -32,7 +32,7 @@ int num_2981()
 	maxx = v[1] - v[0];
 
 	for (int i = 2; i < n; i++) {
-		maxx = again_gcd_2981(maxx, v[i] - v[i - 1]);
+		maxx = gcd_2981(maxx, v[i] - v[i - 1]);
 	}
 	for (int i = 2; i * i <= maxx; i++) {
 		if (maxx % i == 0) {
