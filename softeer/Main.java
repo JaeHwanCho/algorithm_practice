@@ -12,7 +12,8 @@ public class Main
 //        Solve solve = new WorkingHours();
 //        Solve solve = new APlusB();
 //        Solve solve = new SafeCracker();
-        Solve solve = new EightSpeedTransmission();
+//        Solve solve = new EightSpeedTransmission();
+        Solve solve = new ObstacleRecognitionProgram();
         solve.method();
 
     }
