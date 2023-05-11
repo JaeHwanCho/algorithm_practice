@@ -11,7 +11,8 @@ public class Main
 //        Solve solve = new MileageComparison();
 //        Solve solve = new WorkingHours();
 //        Solve solve = new APlusB();
-        Solve solve = new SafeCracker();
+//        Solve solve = new SafeCracker();
+        Solve solve = new EightSpeedTransmission();
         solve.method();
 
     }
