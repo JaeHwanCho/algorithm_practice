@@ -3,10 +3,9 @@ package solve;
 import java.util.Scanner;
 
 
-public class MileageComparison
+public class MileageComparison implements Solve
 {
-    long k, p, n;
-
+    @Override
     public void method() {
         int a, b;
 

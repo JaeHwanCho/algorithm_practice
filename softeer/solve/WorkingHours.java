@@ -2,8 +2,9 @@ package solve;
 
 import java.util.Scanner;
 
-public class WorkingHours {
+public class WorkingHours implements Solve{
 
+    @Override
     public void method() {
         Scanner scanner = new Scanner(System.in);
         int sumHour = 0;

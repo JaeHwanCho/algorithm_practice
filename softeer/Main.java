@@ -1,6 +1,4 @@
-import solve.MileageComparison;
-import solve.Virus;
-import solve.WorkingHours;
+import solve.*;
 
 
 public class Main
@@ -8,9 +6,10 @@ public class Main
     public static void main(String args[])
     {
 
-//        Virus solve = new Virus();
-//        MileageComparison solve = new MileageComparison();
-        WorkingHours solve = new WorkingHours();
+//        Solve solve = new Virus();
+//        Solve solve = new MileageComparison();
+//        Solve solve = new WorkingHours();
+        Solve solve = new APlusB();
         solve.method();
 
     }

@@ -3,11 +3,12 @@ package solve;
 import java.util.*;
 
 
-public class Virus
+public class Virus implements Solve
 {
-    long k, p, n;
-
+    @Override
     public void method() {
+        long k, p, n;
+
         Scanner scan = new Scanner(System.in);
         k = scan.nextInt();
         p = scan.nextInt();
