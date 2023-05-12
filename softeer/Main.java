@@ -16,7 +16,8 @@ public class Main
 //        Solve solve = new ObstacleRecognitionProgram();
 //        Solve solve = new AutomaticMapConstruction();
 //        Solve solve = new SecretMenu();
-        Solve solve = new ConferenceRoomReservation();
+//        Solve solve = new ConferenceRoomReservation();
+        Solve solve = new ElectronicDisplay();
         solve.method();
 
     }
