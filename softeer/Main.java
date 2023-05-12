@@ -15,7 +15,8 @@ public class Main
 //        Solve solve = new EightSpeedTransmission();
 //        Solve solve = new ObstacleRecognitionProgram();
 //        Solve solve = new AutomaticMapConstruction();
-        Solve solve = new SecretMenu();
+//        Solve solve = new SecretMenu();
+        Solve solve = new ConferenceRoomReservation();
         solve.method();
 
     }
